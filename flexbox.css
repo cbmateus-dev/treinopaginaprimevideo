@@ -1,0 +1,9 @@
+.imgAssista {
+  display: flex;
+}
+.cabecalho {
+  display: flex;
+  align-items: center;
+  padding: 16px 48px;
+  align-content: space-between;
+}

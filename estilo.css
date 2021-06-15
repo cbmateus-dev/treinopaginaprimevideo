@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  background-color: #0f171e;
+  color: white;
+  font-size: 19px;
+  font-weight: 700;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.imagemTop {
+  width: 100%;
+}
+
+.cabecalho {
+  width: 363.797;
+  height: 245;
+}
+
+.filme {
+  height: 162.36px;
+  width: 289px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
